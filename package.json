@@ -1,0 +1,26 @@
+{
+  "name": "telenor-hackaton",
+  "version": "1.0.0",
+  "description": "This is a prototype",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurapelaez/telenor.git"
+  },
+  "author": "laura Peláez",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^1.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-webserver": "^0.9.1",
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2"
+  }
+}
